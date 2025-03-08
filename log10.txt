@@ -1,0 +1,174 @@
+Program ID = 10
+--Execution stack--
+New(v, 20)
+Ref(Ref(int)) a
+New(a, v)
+New(v, 30)
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 10
+--Execution stack--
+New(v, 20)
+Ref(Ref(int)) a
+New(a, v)
+New(v, 30)
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+v --> (0, int)
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 10
+--Execution stack--
+Ref(Ref(int)) a
+New(a, v)
+New(v, 30)
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+v --> (0, int)
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 10
+--Execution stack--
+Ref(Ref(int)) a
+New(a, v)
+New(v, 30)
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+v --> (1, int)
+
+--Output--
+ 
+--File table--
+
+--Heap--
+1 --> 20
+
+
+Program ID = 10
+--Execution stack--
+New(a, v)
+New(v, 30)
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+v --> (1, int)
+
+--Output--
+ 
+--File table--
+
+--Heap--
+1 --> 20
+
+
+Program ID = 10
+--Execution stack--
+New(a, v)
+New(v, 30)
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+a --> (0, Ref(int))
+v --> (1, int)
+
+--Output--
+ 
+--File table--
+
+--Heap--
+1 --> 20
+
+
+Program ID = 10
+--Execution stack--
+New(v, 30)
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+a --> (0, Ref(int))
+v --> (1, int)
+
+--Output--
+ 
+--File table--
+
+--Heap--
+1 --> 20
+
+
+Program ID = 10
+--Execution stack--
+New(v, 30)
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+a --> (2, Ref(int))
+v --> (1, int)
+
+--Output--
+ 
+--File table--
+
+--Heap--
+1 --> 20
+2 --> (1, int)
+
+
+Program ID = 10
+--Execution stack--
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+a --> (2, Ref(int))
+v --> (1, int)
+
+--Output--
+ 
+--File table--
+
+--Heap--
+1 --> 20
+2 --> (1, int)
+
+
+Program ID = 10
+--Execution stack--
+Print(HeapRead(HeapRead(a)))
+ 
+--Symbol table--
+a --> (2, Ref(int))
+v --> (3, int)
+
+--Output--
+ 
+--File table--
+
+--Heap--
+2 --> (1, int)
+3 --> 30
+
+

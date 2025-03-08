@@ -1,0 +1,152 @@
+Program ID = 2
+--Execution stack--
+int a
+a=4
+while(a > 0) Print(a); a=(a-1)
+Print(a)
+ 
+--Symbol table--
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+a=4
+while(a > 0) Print(a); a=(a-1)
+Print(a)
+ 
+--Symbol table--
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+a=4
+while(a > 0) Print(a); a=(a-1)
+Print(a)
+ 
+--Symbol table--
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+a=4
+while(a > 0) Print(a); a=(a-1)
+Print(a)
+ 
+--Symbol table--
+a --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+a=4
+while(a > 0) Print(a); a=(a-1)
+Print(a)
+ 
+--Symbol table--
+a --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+while(a > 0) Print(a); a=(a-1)
+Print(a)
+ 
+--Symbol table--
+a --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+while(a > 0) Print(a); a=(a-1)
+Print(a)
+ 
+--Symbol table--
+a --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+while(a > 0) Print(a); a=(a-1)
+Print(a)
+ 
+--Symbol table--
+a --> 4
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+while(a > 0) Print(a); a=(a-1)
+Print(a)
+ 
+--Symbol table--
+a --> 4
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+Print(a)
+ 
+--Symbol table--
+a --> 4
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+

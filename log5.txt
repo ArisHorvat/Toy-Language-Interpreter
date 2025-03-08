@@ -1,0 +1,338 @@
+Program ID = 1
+--Execution stack--
+int a
+int b
+a=8
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+int b
+a=8
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+int b
+a=8
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+int b
+a=8
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+int b
+a=8
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+a=8
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+a=8
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+a=8
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 0
+b --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+a=8
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 0
+b --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 0
+b --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 0
+b --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 8
+b --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+b=3
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 8
+b --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 8
+b --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 8
+b --> 0
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 8
+b --> 3
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+IF(a > b) THEN(Print(a)) ELSE(Print(b))
+ 
+--Symbol table--
+a --> 8
+b --> 3
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+Print(a)
+ 
+--Symbol table--
+a --> 8
+b --> 3
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+Print(a)
+ 
+--Symbol table--
+a --> 8
+b --> 3
+
+--Output--
+
+--File table--
+
+--Heap--
+
+--Latch table--
+
+Program ID = 1
+--Execution stack--
+ 
+--Symbol table--
+a --> 8
+b --> 3
+
+--Output--
+8
+
+--File table--
+
+--Heap--
+
+--Latch table--
+

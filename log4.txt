@@ -1,0 +1,321 @@
+Program ID = 3
+--Execution stack--
+varf=PrgState.txt
+Open file from varf
+int varc
+Store value from file varf in varc
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+varf=PrgState.txt
+Open file from varf
+int varc
+Store value from file varf in varc
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> 
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Open file from varf
+int varc
+Store value from file varf in varc
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> 
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Open file from varf
+int varc
+Store value from file varf in varc
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+int varc
+Store value from file varf in varc
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+int varc
+Store value from file varf in varc
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+
+--Output--
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Store value from file varf in varc
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+
+--Output--
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Store value from file varf in varc
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 0
+
+--Output--
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 0
+
+--Output--
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Print(varc)
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 10
+
+--Output--
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 10
+
+--Output--
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Store value from file varf in varc
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 10
+
+--Output--
+10
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 10
+
+--Output--
+10
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Print(varc)
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 20
+
+--Output--
+10
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 20
+
+--Output--
+10
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+Closing file from varf
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 20
+
+--Output--
+10
+20
+ 
+--File table--
+PrgState.txt
+
+--Heap--
+
+
+Program ID = 3
+--Execution stack--
+ 
+--Symbol table--
+varf --> PrgState.txt
+varc --> 20
+
+--Output--
+10
+20
+ 
+--File table--
+
+--Heap--
+
+

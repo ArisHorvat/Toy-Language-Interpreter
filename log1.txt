@@ -1,0 +1,143 @@
+Program ID = 1
+--Execution stack--
+int v
+v=2
+Print(v)
+ 
+--Symbol table--
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 1
+--Execution stack--
+v=2
+Print(v)
+ 
+--Symbol table--
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 1
+--Execution stack--
+v=2
+Print(v)
+ 
+--Symbol table--
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 1
+--Execution stack--
+v=2
+Print(v)
+ 
+--Symbol table--
+v --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 1
+--Execution stack--
+v=2
+Print(v)
+ 
+--Symbol table--
+v --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 1
+--Execution stack--
+Print(v)
+ 
+--Symbol table--
+v --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 1
+--Execution stack--
+Print(v)
+ 
+--Symbol table--
+v --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 1
+--Execution stack--
+Print(v)
+ 
+--Symbol table--
+v --> 2
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 1
+--Execution stack--
+Print(v)
+ 
+--Symbol table--
+v --> 2
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 1
+--Execution stack--
+ 
+--Symbol table--
+v --> 2
+
+--Output--
+2
+ 
+--File table--
+
+--Heap--
+
+

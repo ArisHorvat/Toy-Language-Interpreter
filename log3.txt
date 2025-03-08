@@ -1,0 +1,158 @@
+Program ID = 2
+--Execution stack--
+int v
+a=true
+IF(a) THEN(v=2) ELSE(v=3)
+Print(v)
+ 
+--Symbol table--
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+int v
+a=true
+IF(a) THEN(v=2) ELSE(v=3)
+Print(v)
+ 
+--Symbol table--
+a --> false
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+a=true
+IF(a) THEN(v=2) ELSE(v=3)
+Print(v)
+ 
+--Symbol table--
+a --> false
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+a=true
+IF(a) THEN(v=2) ELSE(v=3)
+Print(v)
+ 
+--Symbol table--
+a --> false
+v --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+IF(a) THEN(v=2) ELSE(v=3)
+Print(v)
+ 
+--Symbol table--
+a --> false
+v --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+IF(a) THEN(v=2) ELSE(v=3)
+Print(v)
+ 
+--Symbol table--
+a --> true
+v --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+Print(v)
+ 
+--Symbol table--
+a --> true
+v --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+Print(v)
+ 
+--Symbol table--
+a --> true
+v --> 0
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+Print(v)
+ 
+--Symbol table--
+a --> true
+v --> 2
+
+--Output--
+ 
+--File table--
+
+--Heap--
+
+
+Program ID = 2
+--Execution stack--
+ 
+--Symbol table--
+a --> true
+v --> 2
+
+--Output--
+2
+ 
+--File table--
+
+--Heap--
+
+
